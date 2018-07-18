@@ -12,10 +12,10 @@ if __name__ == '__main__':
                         default='23',
                         help='input the height of the map')
     parser.add_argument('--pattern',
-                        default='3',
+                        default='1',
                         help='input pattern')
     parser.add_argument('--generation',
-                        default='20',
+                        default='1',
                         help='input generation')
     args = parser.parse_args()
 
