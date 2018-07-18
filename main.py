@@ -24,13 +24,7 @@ if __name__ == '__main__':
     p = int(args.pattern)
     t = int(args.generation)
 
-# w=50
-# h=40
-# p=2
-# t=5
-
 i=gameoflife.GameofLife(w,h)
 i.initialize(p)
 i.proceed(t)
-#i.gameoflife.display()
 
