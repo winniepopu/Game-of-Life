@@ -4,7 +4,7 @@ GameOfLife
 The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves, or, for advanced players, by creating patterns with particular properties.
 
 
-## 作業敘述
+## 專案敘述
 * 康威生命遊戲
 * 細胞(Cell) 生活在一個 2維陣列的世界，陣列中每一格只能存在一個細胞(Cell)
 * 每個細胞以自身為中心，與周圍八格細胞產生互動。
